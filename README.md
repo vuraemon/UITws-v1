@@ -15,4 +15,4 @@ The implementation of UITws, as described in [our paper](https://link.springer.c
       isbn      = "978-981-15-6168-9"
     }
 
-In case you use UITws to produce published results or incorporated it into other software, please cite our paper as described above. You can you the notebook file in this repository to train and test your Vietnamese word segmentation corpora. Additionally, you can predict from raw texts as you can see in the `Inference from raw texts.ipynb` file. We also provide two `zip` files of two best models in the `checkpoints` directory.
+In case you use UITws to produce published results or incorporated it into other software, please cite our paper as described above. You can you the notebook file in this repository to train and test your Vietnamese word segmentation corpora. Additionally, you can predict from raw texts as you can see in the `Inference from raw texts.ipynb` file. We also provide two `zip` files of our two best models in the `checkpoints` directory for your future works.
